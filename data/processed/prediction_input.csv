@@ -1,0 +1,5 @@
+store,item,year,month,day,day_of_week,week_of_year,sales_lag_7,sales_lag_14,sales_lag_30,rolling_mean_7,rolling_mean_14
+1,1,2018,1,1,0,1,45,40,38,44,42
+1,2,2018,1,1,0,1,55,52,50,53,51
+2,1,2018,1,1,0,1,60,58,54,59,57
+2,2,2018,1,1,0,1,48,46,44,47,45
